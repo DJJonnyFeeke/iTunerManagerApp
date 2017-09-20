@@ -1,0 +1,16 @@
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.csprojResolveAssemblyReference.cache
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.itunerEditor.resources
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.Properties.Resources.resources
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.csproj.GenerateResource.Cache
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerEditor.exe.config
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerEditor.exe
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerEditor.pdb
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerDatabaseAdministrator.dll
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerSkin.dll
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\Interop.DAO.dll
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerDatabaseAdministrator.pdb
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\bin\Debug\iTunerSkin.pdb
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.exe
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.pdb
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.iTunerAbout.resources
+D:\Jonathan Feeke\My Info\Projects\iTunerManagerApp\iTunerEditor\iTunerEditor\iTunerEditor\obj\Debug\iTunerEditor.iTunerMain.resources
